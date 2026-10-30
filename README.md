@@ -26,6 +26,7 @@
 - No Cooldown
 - Max Ultimate Gauge
 - Infinite Ammo 
+- Damage Multiplier
 
 
 ### World
